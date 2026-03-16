@@ -1,6 +1,6 @@
 # Dashboard
 -------------------
-== Making dynamic react based dashboard==
+<Making dynamic react based dashboard>
 ---------------------------
 
 # Folder
@@ -8,7 +8,7 @@
    - `src`
       - `components`
       - `pages`
-      - `App.js'`
+      - `App.js`
       - `App.css`
       - `index.html`
       - `style.css`
